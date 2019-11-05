@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#305A91</color>
+    <color name="colorPrimaryDark">#294d7c</color>
+    <color name="colorAccent">#389636</color>
+    <color name="TheamApp">#305A91</color>
+    <color name="TextColor">#ffffff</color>
+    <color name="backGroundColor">#fcfcfc</color>
+    <color name="lightGray">#ededed</color>
+    <color name="deepPurple">#7c4dff</color>
+    <color name="materialYellow">#ffb300</color>
+    <color name="materialGreen">#00bfa5</color>
+    <color name="pinkAccent">#ff4081</color>
+    <color name="darkGray">#6b6868</color>
+    <color name="deepGreen">#2f6c17</color>
+    <color name="deepRed">#ce0a0a</color>
+</resources>

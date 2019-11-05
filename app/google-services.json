@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "527307735932",
+    "firebase_url": "https://smartparking-2018.firebaseio.com",
+    "project_id": "smartparking-2018",
+    "storage_bucket": "smartparking-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527307735932:android:aa2dbf24773a654e",
+        "android_client_info": {
+          "package_name": "com.example.smartparking.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527307735932-1lq0jkk4c5qakuf1sk7pgcli0ahs5sl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhznFVCarEYNX3OMUTDPhVM9PNWTVO6rw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527307735932:android:4317b856443e1e3b",
+        "android_client_info": {
+          "package_name": "com.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527307735932-iq6o9snfh3qh4hdrum7kaevphkfn81fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartparking",
+            "certificate_hash": "de2b1d2b6fc77055cb9155e089755e893210f4e7"
+          }
+        },
+        {
+          "client_id": "527307735932-1lq0jkk4c5qakuf1sk7pgcli0ahs5sl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhznFVCarEYNX3OMUTDPhVM9PNWTVO6rw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527307735932-1lq0jkk4c5qakuf1sk7pgcli0ahs5sl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
